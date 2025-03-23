@@ -189,4 +189,11 @@
 
 ## Лицензия:
 
-Этот проект распространяется под лицензией MIT — подробности см. в файле [LICENSE](LICENSE).
+- Этот проект распространяется под лицензией MIT — подробности см. в файле [LICENSE](LICENSE).
+
+## Автор:
+
+**Юрий Давыденко** ( *junior C++ developer* ).
+
+- GitHub: [github.com/shakrovsky](https://github.com/shakrovsky)
+- Telegram: [https://t.me/tailung_official](https://t.me/tailung_official)
